@@ -1,8 +1,9 @@
-# NAME :  KAMALESH R
-# REG NO : 212223230094
 
 # Ex-02 Information Gathering
 Information Gathering Techiques
+
+# NAME :  KAMALESH R
+# REG NO : 212223230094
 
 # To perform information gathering techniques
 
